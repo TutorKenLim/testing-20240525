@@ -1,0 +1,30 @@
+body {
+    background-color: #F4FEFE;
+    font-family: "Roboto", sans-serif;
+}
+
+
+/* DIV BOX Color Start */
+#BoxCategory_1 {
+    background-color: #00f583;
+}
+
+#BoxCategory_2 {
+    background-color: #4100f5;
+}
+
+#BoxCategory_3 {
+    background-color: #f5008b;
+}
+
+#BoxCategory_4 {
+    background-color: #e9f500;
+}
+
+#BoxCategory_5 {
+    background-color: #8300f5;
+}
+
+/* DIV BOX Color End */
+
+
